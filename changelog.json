@@ -1,10 +1,8 @@
 {
-  "latestVersion": "0.0.8",
-  "latestVersionCode": 2,
+  "latestVersion": "0.0.9",
+  "latestVersionCode": 3,
   "url": "https://github.com/JeongJun-Lee/Karvon-uz/releases",
   "releaseNotes": [
-    "Changed the transparency of GPS accuracy",
-    "Improved UI of product input screen",
-    "Enable direct upload by taking a picture from a camera"
+    "Support Uzcard payment by Payme"
   ]
 }
