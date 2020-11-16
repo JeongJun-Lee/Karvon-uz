@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.0.9",
-  "latestVersionCode": 3,
+  "latestVersion": "0.1.0",
+  "latestVersionCode": 4,
   "url": "https://github.com/JeongJun-Lee/Karvon-uz/releases",
   "releaseNotes": [
-    "Support Uzcard payment by Payme"
+    "New start with Buyumbor domain"
   ]
 }
