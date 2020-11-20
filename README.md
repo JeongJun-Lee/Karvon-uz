@@ -1,1 +1,1 @@
-# For release of Karvon-Uz platform
+# For release of BuyumBor platform
